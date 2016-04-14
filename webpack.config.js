@@ -2,6 +2,7 @@ module.exports = {
   entry: './src/main.js',
   output: {
     path: __dirname + '/dist/js',
+    publicPath: '/dist/js/',
     filename: 'bundle.js',
   },
   module: {
