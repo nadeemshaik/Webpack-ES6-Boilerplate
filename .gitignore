@@ -1,0 +1,10 @@
+#dependencies
+/node_modules
+/bower_components
+
+#webpack compiled output
+/dist
+
+#log files
+npm-debug.log
+
