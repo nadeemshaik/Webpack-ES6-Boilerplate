@@ -1,0 +1,22 @@
+{
+  "name": "Webpack-ES6-Boilerplate",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nadeemshaik/Webpack-ES6-Boilerplate",
+  "authors": [
+    "Nadeem Shaik <nadeemskv@gmail.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

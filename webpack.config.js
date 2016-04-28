@@ -20,4 +20,7 @@ module.exports = {
     historyApiFallback: true,
     contentBase: './',
   },
+  plugins: [
+    new BowerWebpackPlugin(),
+  ],
 };
